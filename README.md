@@ -12,3 +12,9 @@ About Dataset : This dataset is about past loans. The Loan_train.csv data set in
 5. Pandas
 6. Ticker
 7. Sklearn 
+
+
+### Get in touch
+<a href =  "aniketsinha06.github.io">Portfolio</a></br>
+<a href =  "https://www.linkedin.com/in/aniket-sinha">LinkedIn</a></br>
+<a href =  "github.com/aniketsinha06">Github</a></br>
